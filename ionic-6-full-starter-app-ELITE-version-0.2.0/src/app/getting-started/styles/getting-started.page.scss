@@ -46,6 +46,8 @@ ion-content {
   height: 100%;
 
   .slide-inner-row {
+     //dragon
+     background: linear-gradient(to bottom, #003366, #00659a);
     --ion-grid-column-padding: 0px;
 
     height: 100%;
@@ -78,6 +80,7 @@ ion-content {
 }
 
 .browsing-categories-slide {
+  background: linear-gradient(to bottom, #003366, #00659a);
   &.slide-inner-row {
     flex-flow: column;
     justify-content: space-between;
